@@ -1,46 +1,99 @@
 {
   "checkedAt": "2026-10-05",
   "business": {
-    "googleShare": "https://share.google/Drt6UHYtXGPjOSjq3",
-    "maps": "https://www.google.com/maps/search/?api=1&query=LEXYNS+CLEAN+SIBIU&query_place_id=ChIJv4D-SHZnTEcRz1PqtJs3atI",
-    "placeId": "ChIJv4D-SHZnTEcRz1PqtJs3atI",
-    "cid": "15161992237390910415",
-    "coordinates": {
-      "lat": 45.7927612,
-      "lng": 24.14557
-    },
-    "phoneGoogle": "0754 679 238",
-    "addressGoogle": "Strada Andrei Șaguna, Sibiu",
-    "rating": 5,
-    "reviewCount": 2,
-    "facebook": "https://www.facebook.com/people/Lexyns-CLEAN-sibiu/100092540942409/",
-    "phoneFacebook": "0740 548 753",
-    "notes": "Numărul principal este cel din Google Maps. WhatsApp și alegerea telefonului se confirmă cu clientul. Fără date juridice presupuse."
+    "name": "ABT Cleaning Services SRL",
+    "googleShare": "https://share.google/p6ODOBc2FBwkKriMz",
+    "maps": "https://www.google.com/maps/search/?api=1&query=ABT+Cleaning+Services+SRL+Iasi&query_place_id=ChIJ9QyWZU_7ykARNKqUqN97cq8",
+    "placeId": "ChIJ9QyWZU_7ykARNKqUqN97cq8",
+    "cid": "12642303304518642228",
+    "phone": "0748 532 297",
+    "email": "abtcleaningsrl@gmail.com",
+    "address": "Strada Bradului 17, bloc G4, scara B, Iași 700661",
+    "hours": "Luni - sâmbătă: 08:00 - 21:00. Duminică: închis.",
+    "rating": 4.9,
+    "reviewCount": 42,
+    "facebook": "https://www.facebook.com/p/ABT-Cleaning-Services-SRL-100063632917087/",
+    "servicesSource": "https://www.olx.ro/d/oferta/servicii-de-curatenie-generala-dupa-constructor-apartamente-case-firma-IDdzjYy.html",
+    "notes": "Date Google Maps și Facebook verificate. Servicii confirmate din anunțul public ABT. Evaluarea și numărul de recenzii sunt valori statice."
   },
-  "photos": [
+  "logo": {
+    "file": "assets/abt-logo.png",
+    "source": "Logo original furnizat de utilizator",
+    "modified": false
+  },
+  "media": [
     {
-      "file": "assets/living-room.webp",
-      "author": "Max Vakhtbovych",
-      "source": "https://www.pexels.com/photo/spacious-living-room-with-minimalist-design-and-green-plants-in-contemporary-mansion-6283968/",
-      "download": "https://images.pexels.com/photos/6283968/pexels-photo-6283968.jpeg",
-      "license": "https://www.pexels.com/license/",
-      "illustrative": true
+      "file": "assets/gallery/abt-01.webp",
+      "type": "image",
+      "source": "https://www.facebook.com/photo/?fbid=1141213734676380&set=pb.100063632917087.-2207520000",
+      "owner": "ABT Cleaning Services SRL",
+      "illustrative": false,
+      "notes": "Fotografie publicată de ABT, optimizată în WebP fără generarea sau modificarea scenei."
     },
     {
-      "file": "assets/kitchen.webp",
-      "author": "Max Vakhtbovych",
-      "source": "https://www.pexels.com/photo/modern-kitchen-with-white-simple-design-6523274/",
-      "download": "https://images.pexels.com/photos/6523274/pexels-photo-6523274.jpeg",
-      "license": "https://www.pexels.com/license/",
-      "illustrative": true
+      "file": "assets/gallery/abt-02.webp",
+      "type": "image",
+      "source": "https://www.facebook.com/photo/?fbid=890905956373827&set=pb.100063632917087.-2207520000",
+      "owner": "ABT Cleaning Services SRL",
+      "illustrative": false,
+      "notes": "Fotografie publicată de ABT, optimizată în WebP fără generarea sau modificarea scenei."
     },
     {
-      "file": "assets/office.webp",
-      "author": "Max Vakhtbovych",
-      "source": "https://www.pexels.com/photo/new-office-with-modern-interior-7534178/",
-      "download": "https://images.pexels.com/photos/7534178/pexels-photo-7534178.jpeg",
-      "license": "https://www.pexels.com/license/",
-      "illustrative": true
+      "file": "assets/gallery/abt-03.webp",
+      "type": "image",
+      "source": "https://www.facebook.com/photo/?fbid=890905899707166&set=pb.100063632917087.-2207520000",
+      "owner": "ABT Cleaning Services SRL",
+      "illustrative": false,
+      "notes": "Fotografie publicată de ABT, optimizată în WebP fără generarea sau modificarea scenei."
+    },
+    {
+      "file": "assets/gallery/abt-04.webp",
+      "type": "image",
+      "source": "https://www.facebook.com/photo/?fbid=890905833040506&set=pb.100063632917087.-2207520000",
+      "owner": "ABT Cleaning Services SRL",
+      "illustrative": false,
+      "notes": "Fotografie publicată de ABT, optimizată în WebP fără generarea sau modificarea scenei."
+    },
+    {
+      "file": "assets/gallery/abt-mocheta.mp4",
+      "poster": "assets/gallery/abt-video-poster.webp",
+      "type": "video",
+      "source": "https://www.facebook.com/reel/2339224676593573/",
+      "owner": "ABT Cleaning Services SRL",
+      "illustrative": false,
+      "notes": "Clip public ABT, 16 decembrie 2025, aproximativ 21 secunde. Fișierul video nu a fost modificat."
+    },
+    {
+      "file": "assets/gallery/abt-05.webp",
+      "type": "image",
+      "source": "https://www.facebook.com/photo/?fbid=819564473507976&set=pb.100063632917087.-2207520000",
+      "owner": "ABT Cleaning Services SRL",
+      "illustrative": false,
+      "notes": "Fotografie publicată de ABT, optimizată în WebP fără generarea sau modificarea scenei."
+    },
+    {
+      "file": "assets/gallery/abt-06.webp",
+      "type": "image",
+      "source": "https://www.facebook.com/photo/?fbid=801146945349729&set=pb.100063632917087.-2207520000",
+      "owner": "ABT Cleaning Services SRL",
+      "illustrative": false,
+      "notes": "Fotografie publicată de ABT, optimizată în WebP fără generarea sau modificarea scenei."
+    },
+    {
+      "file": "assets/gallery/abt-07.webp",
+      "type": "image",
+      "source": "https://www.facebook.com/photo/?fbid=801146898683067&set=pb.100063632917087.-2207520000",
+      "owner": "ABT Cleaning Services SRL",
+      "illustrative": false,
+      "notes": "Fotografie publicată de ABT, optimizată în WebP fără generarea sau modificarea scenei."
+    },
+    {
+      "file": "assets/gallery/abt-08.webp",
+      "type": "image",
+      "source": "https://www.facebook.com/photo/?fbid=801146862016404&set=pb.100063632917087.-2207520000",
+      "owner": "ABT Cleaning Services SRL",
+      "illustrative": false,
+      "notes": "Fotografie publicată de ABT, optimizată în WebP fără generarea sau modificarea scenei."
     }
   ],
   "fonts": [

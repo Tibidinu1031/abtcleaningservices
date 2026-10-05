@@ -2,109 +2,166 @@
   "version": 1,
   "publicationId": "",
   "hero": {
-    "eyebrow": "CURĂȚENIE PROFESIONALĂ ÎN SIBIU",
-    "heading": "Curat în casă.",
-    "accent": "Liniște în minte.",
-    "intro": "Mai puține griji. Mai mult timp pentru tine. Avem grijă de curățenia spațiului tău, cu atenție la fiecare detaliu.",
-    "cta": "Hai să vorbim",
+    "eyebrow": "CURĂȚENIE PROFESIONALĂ ÎN IAȘI",
+    "heading": "Curat. Cu grijă.",
+    "accent": "Până la detaliu.",
+    "intro": "Pentru locuința ta, pentru echipa ta, pentru fiecare suprafață care merită atenție. ABT Cleaning Services aduce curățenia profesională în Iași și împrejurimi.",
+    "cta": "Discută cu echipa ABT",
     "image": {
-      "src": "assets/living-room.webp",
-      "alt": "Interior luminos cu pardoseală curată, canapea și plante verzi",
-      "width": 1800,
-      "height": 1201
+      "src": "assets/gallery/abt-06.webp",
+      "alt": "Spațiu luminos după intervenția ABT, cu pardoseală din lemn și ferestre ample",
+      "width": 1400,
+      "height": 1050
     },
-    "imageLabel": "UN NOU ÎNCEPUT, ÎN FIECARE ZI",
-    "imageCaption": "Locul tău. Îngrijit cu atenție."
+    "imageLabel": "ECHIPA ABT · IAȘI & ÎMPREJURIMI",
+    "imageCaption": "Lucrări reale. Grijă la fiecare pas."
   },
   "services": {
     "eyebrow": "01 / CE FACEM",
     "title": "Pentru fiecare spațiu,",
     "accent": "un început curat.",
-    "intro": "Acasă, la birou sau după o renovare. Discutăm despre ce ai nevoie și alegem împreună intervenția potrivită.",
+    "intro": "Curățenie generală, după constructor, întreținere și intervenții specializate. Alegem echipamentele și metoda în funcție de spațiul tău.",
     "items": [
       {
-        "id": "domiciliu",
-        "title": "Curățenie la domiciliu",
-        "subtitle": "Mai mult timp pentru acasă.",
-        "body": "O curățenie generală sau întreținere periodică, adaptată locuinței tale și ritmului tău.",
+        "id": "locuinte",
+        "category": "acasa",
+        "title": "Locuințe & întreținere",
+        "subtitle": "O casă în care revii cu plăcere.",
+        "body": "Curățenie generală, după chiriași sau întreținere periodică pentru case și apartamente.",
         "image": {
-          "src": "assets/kitchen.webp",
-          "alt": "Bucătărie luminoasă cu suprafețe albe și mobilier din lemn",
-          "width": 1400,
-          "height": 975
+          "src": "assets/gallery/abt-07.webp",
+          "alt": "Baie curățată de echipa ABT, cu cadă și suprafețe din piatră",
+          "width": 1200,
+          "height": 1600
         },
         "details": [
-          "Bucătărie și baie",
-          "Pardoseli și suprafețe",
-          "Curățenie generală sau periodică"
+          "Bucătării, băi și suprafețe",
+          "Curățenie generală sau după chiriași",
+          "Întreținere și abonamente"
         ]
       },
       {
         "id": "birouri",
+        "category": "business",
         "title": "Birouri & spații comerciale",
-        "subtitle": "Un loc mai bun pentru lucru.",
-        "body": "Spații îngrijite pentru echipă și clienți. Stabilim un program potrivit activității tale.",
+        "subtitle": "Grijă pentru echipă și clienți.",
+        "body": "Intervenții pentru birouri, spații comerciale și zone comune, într-un program stabilit împreună.",
         "image": {
-          "src": "assets/office.webp",
-          "alt": "Birou contemporan cu spații deschise și pereți din sticlă",
+          "src": "assets/gallery/abt-02.webp",
+          "alt": "Spațiu de birouri în timpul curățeniei ABT",
           "width": 1200,
-          "height": 801
+          "height": 1600
         },
         "details": [
           "Birouri și zone comune",
           "Spații comerciale",
-          "Întreținere periodică"
+          "Abonamente de întreținere"
         ]
       },
       {
-        "id": "renovare",
-        "title": "Curățenie după renovare",
+        "id": "constructor",
+        "category": "business",
+        "title": "După constructor & renovare",
         "subtitle": "Ultimul pas înainte de mutare.",
-        "body": "De la praful fin la suprafețele care au nevoie de atenție. Pregătim spațiul pentru a fi folosit din nou.",
+        "body": "Pregătim spațiul după lucrări, cu atenție la praf, pardoseli și suprafețele care au nevoie de curățare.",
         "image": {
-          "src": "assets/living-room.webp",
-          "alt": "Interior contemporan luminos, cu pardoseală din piatră",
-          "width": 1800,
-          "height": 1201
+          "src": "assets/gallery/abt-06.webp",
+          "alt": "Spațiu cu pardoseală din lemn și ferestre, din lucrările ABT",
+          "width": 1400,
+          "height": 1050
         },
         "details": [
-          "Praf și urme de lucrări",
-          "Pardoseli și suprafețe accesibile",
-          "Intervenție adaptată spațiului"
+          "Curățenie după constructor",
+          "Intervenții după renovare",
+          "Case, apartamente și spații de lucru"
+        ]
+      },
+      {
+        "id": "tapiterie",
+        "category": "special",
+        "title": "Canapele & saltele",
+        "subtitle": "Prospețime pentru țesături.",
+        "body": "Curățare prin injecție și extracție pentru canapele, saltele, fotolii și tapițerii.",
+        "image": {
+          "src": "assets/gallery/abt-05.webp",
+          "alt": "Curățarea unei canapele cu echipament de injecție și extracție",
+          "width": 1200,
+          "height": 1600
+        },
+        "details": [
+          "Canapele și fotolii",
+          "Saltele și tapițerii",
+          "Curățare prin injecție și extracție"
+        ]
+      },
+      {
+        "id": "geamuri",
+        "category": "special",
+        "title": "Geamuri & suprafețe",
+        "subtitle": "Mai multă lumină, mai multă claritate.",
+        "body": "Curățarea geamurilor și a suprafețelor, inclusiv intervenții cu abur discutate în funcție de material.",
+        "image": {
+          "src": "assets/gallery/abt-08.webp",
+          "alt": "Suprafețe placate dintr-un spațiu curățat de ABT",
+          "width": 1200,
+          "height": 1600
+        },
+        "details": [
+          "Geamuri și vitrine",
+          "Suprafețe accesibile",
+          "Curățare și igienizare cu abur"
+        ]
+      },
+      {
+        "id": "mochete",
+        "category": "special",
+        "title": "Mochete & pardoseli",
+        "subtitle": "Curățenie care începe de la bază.",
+        "body": "Mochete, covoare și pardoseli care au nevoie de curățare profesională cu echipamente dedicate.",
+        "image": {
+          "src": "assets/gallery/abt-03.webp",
+          "alt": "Echipament profesional folosit pentru curățarea unei mochete",
+          "width": 1200,
+          "height": 1600
+        },
+        "details": [
+          "Mochete și covoare",
+          "Curățare mecanizată a pardoselilor",
+          "Metodă adaptată materialului"
         ]
       }
     ]
   },
   "about": {
-    "eyebrow": "02 / FELUL NOSTRU DE A LUCRA",
+    "eyebrow": "03 / ECHIPA DIN SPATELE REZULTATULUI",
     "title": "Curățenia se vede.",
     "accent": "Grija se simte.",
-    "intro": "Un spațiu curat înseamnă mai mult decât ordine. Înseamnă să te simți bine când intri pe ușă.",
-    "body": "Suntem Lexyns Clean, o firmă de curățenie din Sibiu. Ascultăm ce ai nevoie, discutăm detaliile și tratăm spațiul tău cu respect. Pentru noi, lucrurile mici fac diferența.",
+    "intro": "Oameni, echipamente și atenție la detalii. Împreună fac diferența dintre o curățenie de suprafață și un spațiu îngrijit.",
+    "body": "ABT Cleaning Services SRL oferă servicii profesionale de curățenie în Iași și împrejurimi. Lucrăm cu soluții și echipamente dedicate, pentru locuințe, birouri și intervenții specializate.",
     "points": [
       {
-        "title": "Atenție la detalii",
-        "body": "De la suprafețele folosite zilnic la colțurile care trec ușor neobservate."
+        "title": "Echipamente pentru fiecare suprafață",
+        "body": "Folosim echipamente profesionale și alegem metoda în funcție de material: injecție și extracție, abur sau curățare mecanizată."
       },
       {
-        "title": "O discuție clară, de la început",
-        "body": "Stabilim împreună ce include intervenția, programul și oferta."
+        "title": "Detalii stabilite înainte",
+        "body": "Discutăm tipul intervenției, accesul în spațiu, programul și oferta, înainte de confirmare."
       },
       {
-        "title": "Un serviciu potrivit ție",
-        "body": "O singură intervenție sau curățenie periodică, în funcție de spațiul tău."
+        "title": "O echipă prezentă în lucrările sale",
+        "body": "În galerie vezi fotografii și un clip publicate de ABT. Intervenții reale, cu echipa și echipamentele la lucru."
       }
     ]
   },
   "process": {
-    "eyebrow": "03 / SIMPLU, DE LA ÎNCEPUT",
+    "eyebrow": "04 / CUM ÎNCEPE COLABORAREA",
     "title": "Tu ne spui unde.",
     "accent": "Noi discutăm cum.",
     "intro": "Fără pași complicați. Doar o conversație și un plan clar.",
     "steps": [
       {
         "title": "Ne povestești despre spațiu",
-        "body": "Sună-ne sau scrie-ne. Spune-ne unde se află spațiul, ce suprafață are și ce fel de curățenie îți dorești."
+        "body": "Spune-ne unde se află spațiul, ce suprafață are și ce fel de curățenie îți dorești. Câteva fotografii ne pot ajuta să înțelegem mai bine solicitarea."
       },
       {
         "title": "Stabilim detaliile",
@@ -117,7 +174,7 @@
     ]
   },
   "faq": {
-    "eyebrow": "04 / BINE DE ȘTIUT",
+    "eyebrow": "05 / RĂSPUNSURI LA ÎNDEMÂNĂ",
     "title": "Câteva răspunsuri,",
     "accent": "înainte să vorbim.",
     "items": [
@@ -131,7 +188,7 @@
       },
       {
         "question": "În ce zonă lucrați?",
-        "answer": "Ne găsești în Sibiu. Pentru o intervenție în localitățile din apropiere, contactează-ne ca să verificăm disponibilitatea și detaliile deplasării."
+        "answer": "Ne găsești în Iași. Pentru o intervenție în localitățile din apropiere, contactează-ne ca să verificăm disponibilitatea și detaliile deplasării."
       },
       {
         "question": "Trebuie să fiu acasă pe durata curățeniei?",
@@ -139,25 +196,141 @@
       },
       {
         "question": "Cum confirm programarea?",
-        "answer": "O programare este confirmată doar după discuția cu echipa Lexyns Clean. Un mesaj trimis de pe site reprezintă o cerere, nu o rezervare automată."
+        "answer": "O programare este confirmată doar după discuția cu echipa ABT Cleaning Services. Un mesaj trimis de pe site reprezintă o cerere, nu o rezervare automată."
       }
     ]
   },
   "contact": {
-    "eyebrow": "05 / NE AUZIM?",
+    "eyebrow": "06 / VORBIM DESPRE SPAȚIUL TĂU?",
     "title": "Un spațiu mai curat.",
     "accent": "Începem cu un salut.",
     "intro": "Spune-ne ce ai nevoie. Împreună găsim varianta potrivită pentru spațiul tău.",
-    "phone": "0754 679 238",
-    "email": "",
-    "address": "Strada Andrei Șaguna, Sibiu",
-    "hours": "Programarea intervențiilor se stabilește telefonic.",
-    "facebookUrl": "https://www.facebook.com/people/Lexyns-CLEAN-sibiu/100092540942409/",
-    "whatsappUrl": "https://wa.me/40754679238",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=LEXYNS+CLEAN+SIBIU&query_place_id=ChIJv4D-SHZnTEcRz1PqtJs3atI",
-    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=LEXYNS+CLEAN+SIBIU&destination_place_id=ChIJv4D-SHZnTEcRz1PqtJs3atI",
-    "mapEmbedUrl": "https://www.google.com/maps?cid=15161992237390910415&output=embed&hl=ro",
-    "rating": "5,0",
-    "reviewCount": "2"
+    "phone": "0748 532 297",
+    "email": "abtcleaningsrl@gmail.com",
+    "address": "Strada Bradului 17, bloc G4, scara B, Iași 700661",
+    "hours": "Luni - sâmbătă: 08:00 - 21:00. Duminică: închis.",
+    "facebookUrl": "https://www.facebook.com/p/ABT-Cleaning-Services-SRL-100063632917087/",
+    "whatsappUrl": "https://wa.me/40748532297",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ABT+Cleaning+Services+SRL+Iasi&query_place_id=ChIJ9QyWZU_7ykARNKqUqN97cq8",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=ABT+Cleaning+Services+SRL+Iasi&destination_place_id=ChIJ9QyWZU_7ykARNKqUqN97cq8",
+    "mapEmbedUrl": "https://www.google.com/maps?cid=12642303304518642228&output=embed&hl=ro",
+    "rating": "4,9",
+    "reviewCount": "42"
+  },
+  "gallery": {
+    "eyebrow": "02 / DIN LUCRĂRILE NOASTRE",
+    "title": "Rezultatele se văd.",
+    "accent": "Oamenii fac diferența.",
+    "intro": "Fotografii și video publicate de ABT Cleaning Services. Descoperă echipa, echipamentele și câteva dintre intervențiile noastre.",
+    "items": [
+      {
+        "id": "foto-1",
+        "type": "image",
+        "src": "assets/gallery/abt-01.webp",
+        "alt": "Echipa ABT la lucru",
+        "width": 1179,
+        "height": 1572,
+        "title": "Echipa ABT la lucru",
+        "caption": "Fotografie publicată pe pagina Facebook ABT Cleaning Services.",
+        "source": "https://www.facebook.com/photo/?fbid=1141213734676380&set=pb.100063632917087.-2207520000",
+        "poster": ""
+      },
+      {
+        "id": "foto-2",
+        "type": "image",
+        "src": "assets/gallery/abt-02.webp",
+        "alt": "Curățenie în spații de birouri",
+        "width": 1200,
+        "height": 1600,
+        "title": "Curățenie în spații de birouri",
+        "caption": "Fotografie publicată pe pagina Facebook ABT Cleaning Services.",
+        "source": "https://www.facebook.com/photo/?fbid=890905956373827&set=pb.100063632917087.-2207520000",
+        "poster": ""
+      },
+      {
+        "id": "foto-3",
+        "type": "image",
+        "src": "assets/gallery/abt-03.webp",
+        "alt": "Curățarea profesională a mochetei",
+        "width": 1200,
+        "height": 1600,
+        "title": "Curățarea profesională a mochetei",
+        "caption": "Fotografie publicată pe pagina Facebook ABT Cleaning Services.",
+        "source": "https://www.facebook.com/photo/?fbid=890905899707166&set=pb.100063632917087.-2207520000",
+        "poster": ""
+      },
+      {
+        "id": "foto-4",
+        "type": "image",
+        "src": "assets/gallery/abt-04.webp",
+        "alt": "Intervenție cu injecție și extracție",
+        "width": 1200,
+        "height": 1600,
+        "title": "Intervenție cu injecție și extracție",
+        "caption": "Fotografie publicată pe pagina Facebook ABT Cleaning Services.",
+        "source": "https://www.facebook.com/photo/?fbid=890905833040506&set=pb.100063632917087.-2207520000",
+        "poster": ""
+      },
+      {
+        "id": "video-mocheta",
+        "type": "video",
+        "src": "assets/gallery/abt-mocheta.mp4",
+        "poster": "assets/gallery/abt-video-poster.webp",
+        "alt": "Echipa ABT curăță mocheta dintr-un spațiu de birouri",
+        "width": 360,
+        "height": 640,
+        "title": "Curățarea mochetei, în acțiune",
+        "caption": "Clip publicat de ABT pe 16 decembrie 2025. Durată aproximativă: 21 secunde.",
+        "source": "https://www.facebook.com/reel/2339224676593573/"
+      },
+      {
+        "id": "foto-5",
+        "type": "image",
+        "src": "assets/gallery/abt-05.webp",
+        "alt": "Curățarea unei canapele",
+        "width": 1200,
+        "height": 1600,
+        "title": "Curățarea unei canapele",
+        "caption": "Fotografie publicată pe pagina Facebook ABT Cleaning Services.",
+        "source": "https://www.facebook.com/photo/?fbid=819564473507976&set=pb.100063632917087.-2207520000",
+        "poster": ""
+      },
+      {
+        "id": "foto-6",
+        "type": "image",
+        "src": "assets/gallery/abt-06.webp",
+        "alt": "Pardoseli și spații luminoase",
+        "width": 1400,
+        "height": 1050,
+        "title": "Pardoseli și spații luminoase",
+        "caption": "Fotografie publicată pe pagina Facebook ABT Cleaning Services.",
+        "source": "https://www.facebook.com/photo/?fbid=801146945349729&set=pb.100063632917087.-2207520000",
+        "poster": ""
+      },
+      {
+        "id": "foto-7",
+        "type": "image",
+        "src": "assets/gallery/abt-07.webp",
+        "alt": "Curățenie în baie",
+        "width": 1200,
+        "height": 1600,
+        "title": "Curățenie în baie",
+        "caption": "Fotografie publicată pe pagina Facebook ABT Cleaning Services.",
+        "source": "https://www.facebook.com/photo/?fbid=801146898683067&set=pb.100063632917087.-2207520000",
+        "poster": ""
+      },
+      {
+        "id": "foto-8",
+        "type": "image",
+        "src": "assets/gallery/abt-08.webp",
+        "alt": "Suprafețe pregătite pentru utilizare",
+        "width": 1200,
+        "height": 1600,
+        "title": "Suprafețe pregătite pentru utilizare",
+        "caption": "Fotografie publicată pe pagina Facebook ABT Cleaning Services.",
+        "source": "https://www.facebook.com/photo/?fbid=801146862016404&set=pb.100063632917087.-2207520000",
+        "poster": ""
+      }
+    ]
   }
 }

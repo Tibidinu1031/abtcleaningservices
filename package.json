@@ -1,9 +1,9 @@
 {
-  "name": "lexyns-clean",
+  "name": "abt-cleaning-services",
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Site Lexyns Clean Sibiu, cu editor pentru client.",
+  "description": "Site ABT Cleaning Services Iași, cu editor pentru client.",
   "scripts": {
     "dev": "node scripts/serve.mjs",
     "build": "node scripts/build.mjs",

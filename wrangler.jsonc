@@ -1,18 +1,18 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
-  "name": "lexyns-clean",
+  "name": "abt-cleaning-services",
   "pages_build_output_dir": "./dist",
   "compatibility_date": "2026-10-01",
   "d1_databases": [
     {
       "binding": "EDITOR_DB",
-      "database_name": "lexyns-clean-editor",
+      "database_name": "abt-cleaning-editor",
       "database_id": "00000000-0000-0000-0000-000000000000"
     }
   ],
   "vars": {
     "ADMIN_USERNAME": "admin",
-    "GITHUB_REPOSITORY": "Tibidinu1031/lexynsclean",
+    "GITHUB_REPOSITORY": "Tibidinu1031/abtcleaningservices",
     "GITHUB_BRANCH": "main"
   }
 }

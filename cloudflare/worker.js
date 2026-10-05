@@ -1,5 +1,5 @@
 import {editorApi} from './editor-api.js';
-const encoder=new TextEncoder(),SESSION_SECONDS=12*60*60,COOKIE='lexyns_clean_admin';
+const encoder=new TextEncoder(),SESSION_SECONDS=12*60*60,COOKIE='abt_cleaning_admin';
 export class ApiError extends Error{constructor(status,message){super(message);this.status=status;}}
 const hex=bytes=>[...new Uint8Array(bytes)].map(v=>v.toString(16).padStart(2,'0')).join('');
 const digest=async value=>hex(await crypto.subtle.digest('SHA-256',encoder.encode(value)));
