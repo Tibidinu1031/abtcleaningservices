@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.qa/
+.dev.vars
+.env
+.wrangler/
+*.log
+
+*.zip

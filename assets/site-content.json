@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "publicationId": "",
+  "hero": {
+    "eyebrow": "CURĂȚENIE PROFESIONALĂ ÎN SIBIU",
+    "heading": "Curat în casă.",
+    "accent": "Liniște în minte.",
+    "intro": "Mai puține griji. Mai mult timp pentru tine. Avem grijă de curățenia spațiului tău, cu atenție la fiecare detaliu.",
+    "cta": "Hai să vorbim",
+    "image": {
+      "src": "assets/living-room.webp",
+      "alt": "Interior luminos cu pardoseală curată, canapea și plante verzi",
+      "width": 1800,
+      "height": 1201
+    },
+    "imageLabel": "UN NOU ÎNCEPUT, ÎN FIECARE ZI",
+    "imageCaption": "Locul tău. Îngrijit cu atenție."
+  },
+  "services": {
+    "eyebrow": "01 / CE FACEM",
+    "title": "Pentru fiecare spațiu,",
+    "accent": "un început curat.",
+    "intro": "Acasă, la birou sau după o renovare. Discutăm despre ce ai nevoie și alegem împreună intervenția potrivită.",
+    "items": [
+      {
+        "id": "domiciliu",
+        "title": "Curățenie la domiciliu",
+        "subtitle": "Mai mult timp pentru acasă.",
+        "body": "O curățenie generală sau întreținere periodică, adaptată locuinței tale și ritmului tău.",
+        "image": {
+          "src": "assets/kitchen.webp",
+          "alt": "Bucătărie luminoasă cu suprafețe albe și mobilier din lemn",
+          "width": 1400,
+          "height": 975
+        },
+        "details": [
+          "Bucătărie și baie",
+          "Pardoseli și suprafețe",
+          "Curățenie generală sau periodică"
+        ]
+      },
+      {
+        "id": "birouri",
+        "title": "Birouri & spații comerciale",
+        "subtitle": "Un loc mai bun pentru lucru.",
+        "body": "Spații îngrijite pentru echipă și clienți. Stabilim un program potrivit activității tale.",
+        "image": {
+          "src": "assets/office.webp",
+          "alt": "Birou contemporan cu spații deschise și pereți din sticlă",
+          "width": 1200,
+          "height": 801
+        },
+        "details": [
+          "Birouri și zone comune",
+          "Spații comerciale",
+          "Întreținere periodică"
+        ]
+      },
+      {
+        "id": "renovare",
+        "title": "Curățenie după renovare",
+        "subtitle": "Ultimul pas înainte de mutare.",
+        "body": "De la praful fin la suprafețele care au nevoie de atenție. Pregătim spațiul pentru a fi folosit din nou.",
+        "image": {
+          "src": "assets/living-room.webp",
+          "alt": "Interior contemporan luminos, cu pardoseală din piatră",
+          "width": 1800,
+          "height": 1201
+        },
+        "details": [
+          "Praf și urme de lucrări",
+          "Pardoseli și suprafețe accesibile",
+          "Intervenție adaptată spațiului"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "02 / FELUL NOSTRU DE A LUCRA",
+    "title": "Curățenia se vede.",
+    "accent": "Grija se simte.",
+    "intro": "Un spațiu curat înseamnă mai mult decât ordine. Înseamnă să te simți bine când intri pe ușă.",
+    "body": "Suntem Lexyns Clean, o firmă de curățenie din Sibiu. Ascultăm ce ai nevoie, discutăm detaliile și tratăm spațiul tău cu respect. Pentru noi, lucrurile mici fac diferența.",
+    "points": [
+      {
+        "title": "Atenție la detalii",
+        "body": "De la suprafețele folosite zilnic la colțurile care trec ușor neobservate."
+      },
+      {
+        "title": "O discuție clară, de la început",
+        "body": "Stabilim împreună ce include intervenția, programul și oferta."
+      },
+      {
+        "title": "Un serviciu potrivit ție",
+        "body": "O singură intervenție sau curățenie periodică, în funcție de spațiul tău."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "03 / SIMPLU, DE LA ÎNCEPUT",
+    "title": "Tu ne spui unde.",
+    "accent": "Noi discutăm cum.",
+    "intro": "Fără pași complicați. Doar o conversație și un plan clar.",
+    "steps": [
+      {
+        "title": "Ne povestești despre spațiu",
+        "body": "Sună-ne sau scrie-ne. Spune-ne unde se află spațiul, ce suprafață are și ce fel de curățenie îți dorești."
+      },
+      {
+        "title": "Stabilim detaliile",
+        "body": "Discutăm serviciile, disponibilitatea și prețul, înainte să confirmăm programarea."
+      },
+      {
+        "title": "Facem loc pentru mai bine",
+        "body": "Ne ocupăm de intervenția stabilită, iar tu te bucuri din nou de spațiul tău."
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "04 / BINE DE ȘTIUT",
+    "title": "Câteva răspunsuri,",
+    "accent": "înainte să vorbim.",
+    "items": [
+      {
+        "question": "Cum primesc o ofertă de preț?",
+        "answer": "Sună-ne sau trimite-ne un mesaj cu tipul spațiului, suprafața aproximativă și serviciul dorit. Oferta se stabilește după ce discutăm detaliile intervenției."
+      },
+      {
+        "question": "Pot programa curățenie periodică?",
+        "answer": "Da, putem discuta o variantă de întreținere periodică. Frecvența și programul se stabilesc în funcție de nevoile spațiului și de disponibilitate."
+      },
+      {
+        "question": "În ce zonă lucrați?",
+        "answer": "Ne găsești în Sibiu. Pentru o intervenție în localitățile din apropiere, contactează-ne ca să verificăm disponibilitatea și detaliile deplasării."
+      },
+      {
+        "question": "Trebuie să fiu acasă pe durata curățeniei?",
+        "answer": "Stabilim împreună accesul în spațiu și orice instrucțiuni importante, înainte de programare. Spune-ne preferințele tale în prima discuție."
+      },
+      {
+        "question": "Cum confirm programarea?",
+        "answer": "O programare este confirmată doar după discuția cu echipa Lexyns Clean. Un mesaj trimis de pe site reprezintă o cerere, nu o rezervare automată."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "05 / NE AUZIM?",
+    "title": "Un spațiu mai curat.",
+    "accent": "Începem cu un salut.",
+    "intro": "Spune-ne ce ai nevoie. Împreună găsim varianta potrivită pentru spațiul tău.",
+    "phone": "0754 679 238",
+    "email": "",
+    "address": "Strada Andrei Șaguna, Sibiu",
+    "hours": "Programarea intervențiilor se stabilește telefonic.",
+    "facebookUrl": "https://www.facebook.com/people/Lexyns-CLEAN-sibiu/100092540942409/",
+    "whatsappUrl": "https://wa.me/40754679238",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=LEXYNS+CLEAN+SIBIU&query_place_id=ChIJv4D-SHZnTEcRz1PqtJs3atI",
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=LEXYNS+CLEAN+SIBIU&destination_place_id=ChIJv4D-SHZnTEcRz1PqtJs3atI",
+    "mapEmbedUrl": "https://www.google.com/maps?cid=15161992237390910415&output=embed&hl=ro",
+    "rating": "5,0",
+    "reviewCount": "2"
+  }
+}
